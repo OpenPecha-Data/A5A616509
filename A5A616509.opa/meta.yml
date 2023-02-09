@@ -1,0 +1,17 @@
+id: A5A616509
+title: 'MSV 1,14: Poṣadhasthāpanavastu'
+type: translation
+pechas:
+- I2433A392
+- I420CBCBF
+- I4DC65C5E
+source_metadata:
+  languages:
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-09 15:10:06.180504
+  last_modified_at: 2023-02-09 15:10:06.180528
+alignment_to_base:
+  I2433A392/ACEF: 28E7
+  I420CBCBF/48F8: 28E7
+  I4DC65C5E/3E65: 28E7
